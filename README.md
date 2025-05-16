@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Hack&weight=600&size=28&duration=4000&pause=1000&color=00F728&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%94%92+Cyber+Security+Enthusiast;%F0%9F%92%BB+Malware+Architect;%F0%9F%93%B1+Reverse+Engineering;%E2%98%A0%EF%B8%8F+Threat+Modeling" alt="Header Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Hack&weight=600&size=28&duration=4000&pause=1000&color=00F728&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%94%92+Cyber+Security+Enthusiast;%F0%9F%92%BB+Malware+Architect;%E2%98%A0%EF%B8%8F+Threat+Modeling" alt="Header Animation" />
 </h1>
 
 <p align="center">
