@@ -34,6 +34,12 @@
 
 ---
 
+###📡 Connect Under Secure Channel
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulhacks&layout=compact&theme=merko&hide=html,css&langs_count=6&hide_border=true" alt="Language Stats"/> <img src="https://github-readme-stats.vercel.app/api?username=atulhacks&show_icons=true&theme=merko&include_all_commits=true&hide=prs,issues&hide_border=true" alt="GitHub Stats"/> </div>
+
+---
+
 ### 💻 **Malware Lab**
 
 ```cpp
