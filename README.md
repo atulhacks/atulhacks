@@ -32,10 +32,6 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-#### Total Downloads
-[![Total Downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/atulhacks/atulhacks/main/total.json&logo=github&style=flat-square&cacheSeconds=3600)](https://github.com/atulhacks)
----
-
 ### 📡 Connect Under Secure Channel
 
 <p align="center"> <a href="https://www.linkedin.com/in/atulhack"> <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/> </a> <a href="https://keybase.io/atulhack"> <img src="https://img.shields.io/badge/Keybase-33A0FF?style=for-the-badge&logo=keybase&logoColor=white"/> </a> <a href="https://app.hackthebox.com/profile/2389729"> <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/> </a> </p>
