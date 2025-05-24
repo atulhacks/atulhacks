@@ -1,39 +1,69 @@
 name: Profile Download Tracker
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'  # Daily at midnight UTC
   workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   update-downloads:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Explicitly grant write permissions
+      contents: write
+      pull-requests: write
+      actions: read
+
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
         with:
-          persist-credentials: true  # Keep the authentication token available
+          fetch-depth: 0
+          ref: main
+
+      - name: Setup GitHub CLI
+        uses: actions/setup-go@v4
+        with:
+          go-version: '1.21'
 
       - name: Calculate Total Downloads
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          total=0
-          repos=$(gh api users/atulhacks/repos --paginate --jq '.[].name')
+          # Get all repository names (handles pagination)
+          repos=$(gh api users/atulhacks/repos --paginate --jq '.[].name' | tr '\n' ' ')
           
-          while read -r repo; do
+          total=0
+          for repo in $repos; do
+            echo "Processing $repo..."
+            
+            # Get releases with assets
             releases=$(gh api repos/atulhacks/$repo/releases --paginate)
-            downloads=$(echo "$releases" | jq -r '.[].assets[].download_count' | awk '{sum+=$1} END {print sum}')
+            
+            # Sum download counts
+            downloads=$(echo "$releases" | \
+              jq -r '.[].assets[].download_count' | \
+              awk '{sum+=$1} END {print sum+0}')
+            
             total=$((total + downloads))
-          done <<< "$repos"
+          done
 
-          echo '{"schemaVersion":1,"label":"Downloads","message":"'$total'","color":"success"}' > total.json
+          # Generate badge JSON
+          echo "Total downloads: $total"
+          jq -n \
+            --arg total "$total" \
+            --arg color $(if [ $total -ge 1000 ]; then echo "success"; elif [ $total -ge 500 ]; then echo "yellow"; else echo "critical"; fi) \
+            '{schemaVersion:1, label:"Downloads", message:$total, color:$color}' > total.json
 
-      - name: Commit Changes
+      - name: Commit and Push Changes
         uses: EndBug/add-and-commit@v9
         with:
-          author_name: GitHub Actions
-          author_email: actions@github.com
-          message: '📈 Update download count'
-          add: 'total.json'
+          author_name: "GitHub Actions"
+          author_email: "actions@github.com"
+          message: "📈 Update download count (${{ steps.calculate.outputs.total }})"
+          add: "total.json"
+          pull: true
           push: true
+          force: true
