@@ -32,6 +32,8 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+#### Total Downloads
+[![Total Downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/atulhacks/atulhacks/main/total.json&logo=github&style=flat-square&cacheSeconds=3600)](https://github.com/atulhacks)
 ---
 
 ### 📡 Connect Under Secure Channel
