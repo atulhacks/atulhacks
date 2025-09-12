@@ -25,7 +25,7 @@
 
 ### 🔧 Languages I Speak Fluently
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,js,powershell" height="50" alt="Programming Languages">
+  <img src="https://skillicons.dev/icons?i=cpp,python,bash,js,powershell" height="50" alt="Programming Languages">
 </div>
 
 ### 🛡️ Security Arsenal
