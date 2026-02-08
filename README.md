@@ -232,6 +232,36 @@ fn main() {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
+<!-- ═══════════════════════════ DISCORD & SPOTIFY ═══════════════════════════ -->
+
+<br>
+
+<div align="center">
+<img src="https://img.shields.io/badge/LIVE_STATUS-e63946?style=for-the-badge&labelColor=0d1117&logo=statuspage&logoColor=white" />
+</div>
+
+<br>
+
+<p align="center">
+  <a href="https://discord.com/users/1336386329529024633">
+    <img src="https://lanyard.cnrad.dev/api/1336386329529024633?theme=dark&bg=0d1117&borderRadius=15&animated=true&idleMessage=Probably%20hacking%20something...&hideDiscrim=true" alt="Discord Presence" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinan.vercel.app/api/view?uid=31k3qdkgp4yd5ebdzxxm7g6kjiqy&redirect=true">
+    <img src="https://spotify-github-profile.kittinan.vercel.app/api/view?uid=31k3qdkgp4yd5ebdzxxm7g6kjiqy&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=e63946&bar_color_cover=true" alt="Spotify Now Playing" />
+  </a>
+</p>
+
+<br>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
 <!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
 
 <br>
