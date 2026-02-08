@@ -302,7 +302,7 @@ fn main() {
 ```cpp
 // ⚠️ For educational & defensive research only
 namespace atulhacks {
-    const char* motto = "Understand the attack to build the defense";
+    const char* motto = "The best defense is understanding the offense.";
 }
 ```
 
@@ -311,7 +311,7 @@ namespace atulhacks {
 <br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20defense%20is%20understanding%20the%20offense.&author=atulhacks" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Security%20is%20just%20an%20illusion%20until%20i%20am%20online.&author=atulhacks" alt="Quote" />
 </div>
 
 <br>
