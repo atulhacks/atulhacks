@@ -1,12 +1,8 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:e63946,100:ff6b6b&height=220&section=header&text=atulhacks&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20%7C%20Red%20Teamer%20%7C%20Rust%20Enthusiast&descSize=18&descAlignY=55&descColor=ffffff">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:e63946,100:c0392b&height=220&section=header&text=atulhacks&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20%7C%20Red%20Teamer%20%7C%20Rust%20Enthusiast&descSize=18&descAlignY=55&descColor=ffffff">
-  <img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:e63946,100:c0392b&height=220&section=header&text=atulhacks&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20%7C%20Red%20Teamer%20%7C%20Rust%20Enthusiast&descSize=18&descAlignY=55&descColor=ffffff">
-</picture>
+<img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:e63946,100:c0392b&height=220&section=header&text=atulhacks&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20%7C%20Red%20Teamer%20%7C%20Rust%20Enthusiast&descSize=18&descAlignY=55&descColor=ffffff">
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%3E+Breaking+systems+to+make+them+unbreakable;%3E+Rust+%7C+Python+%7C+C%2B%2B+%7C+Low-Level+Hacking;%3E+Fueled+by+coffee+and+curiosity)](https://github.com/atulhacks)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%3E+Breaking+systems+to+make+them+unbreakable;%3E+Rust+%7C+Python+%7C+C%2B%2B+%7C+Low-Level+Hacking;%3E+Fueled+by+coffee+and+curiosity)](https://github.com/atulhacks)
 
 <br>
 
@@ -253,8 +249,6 @@ fn main() {
   <img alt="github-snake" width="100%" src="https://raw.githubusercontent.com/atulhacks/atulhacks/output/github-snake-dark.svg" />
 </picture>
 
-> **Note:** If the snake is not visible, go to **Actions** tab → **Generate Snake Animation** → **Run workflow** to generate it for the first time.
-
 </div>
 
 <br>
@@ -330,8 +324,4 @@ namespace atulhacks {
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:e63946,100:ff6b6b&height=120&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:e63946,100:c0392b&height=120&section=footer">
-  <img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:e63946,100:c0392b&height=120&section=footer">
-</picture>
+<img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:e63946,100:c0392b&height=120&section=footer">
