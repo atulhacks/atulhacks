@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+Breaking+systems+to+make+them+unbreakable;%3E+Rust+%7C+Python+%7C+C%2B%2B+%7C+Low-Level+Hacking;%3E+Fueled+by+coffee+and+curiosity)](https://github.com/atulhacks)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%3E+Breaking+systems+to+make+them+unbreakable;%3E+Rust+%7C+Python+%7C+C%2B%2B+%7C+Low-Level+Hacking;%3E+Fueled+by+coffee+and+curiosity)](https://github.com/atulhacks)
 
 <br>
 
@@ -119,14 +119,14 @@ fn main() {
 
 <p align="center">
   <a href="https://github.com/atulhacks">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=atulhacks&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e63946&icon_color=e63946&text_color=c9d1d9&ring_color=e63946&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=atulhacks&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e63946&icon_color=e63946&text_color=c9d1d9&ring_color=e63946&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
     <img width="49%" src="https://streak-stats.demolab.com?user=atulhacks&theme=github-dark-blue&hide_border=true&background=0d1117&ring=e63946&fire=e63946&currStreakLabel=e63946&sideLabels=c9d1d9&dates=8b949e&stroke=161b22" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/atulhacks">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulhacks&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e63946&text_color=c9d1d9&langs_count=6" alt="Top Languages" />
+    <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=atulhacks&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e63946&text_color=c9d1d9&langs_count=6" alt="Top Languages" />
   </a>
 </p>
 
@@ -154,19 +154,19 @@ fn main() {
 
 <p align="center">
   <a href="https://github.com/atulhacks/emore">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=atulhacks&repo=emore&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e63946&icon_color=e63946&text_color=c9d1d9" />
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=atulhacks&repo=emore&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e63946&icon_color=e63946&text_color=c9d1d9" />
   </a>
   <a href="https://github.com/atulhacks/VulcanGPT">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=atulhacks&repo=VulcanGPT&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e63946&icon_color=e63946&text_color=c9d1d9" />
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=atulhacks&repo=VulcanGPT&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e63946&icon_color=e63946&text_color=c9d1d9" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/atulhacks/BYOB-RCE">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=atulhacks&repo=BYOB-RCE&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e63946&icon_color=e63946&text_color=c9d1d9" />
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=atulhacks&repo=BYOB-RCE&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e63946&icon_color=e63946&text_color=c9d1d9" />
   </a>
   <a href="https://github.com/atulhacks/exeToscript">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=atulhacks&repo=exeToscript&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e63946&icon_color=e63946&text_color=c9d1d9" />
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=atulhacks&repo=exeToscript&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e63946&icon_color=e63946&text_color=c9d1d9" />
   </a>
 </p>
 
@@ -188,7 +188,7 @@ fn main() {
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=atulhacks&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy-ruddy.vercel.app/?username=atulhacks&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -222,11 +222,11 @@ fn main() {
 
 |  | Focus Area | Description |
 |:-:|:--|:--|
-| <img src="https://cdn.simpleicons.org/ghidra/white" width="18"> | **Reverse Engineering** | Tearing binaries apart to understand the internals |
-| <img src="https://cdn.simpleicons.org/amazonaws/white" width="18"> | **Cloud Security** | Hardening AWS / Azure cloud environments |
+| <img src="https://cdn.simpleicons.org/virustotal/white" width="18"> | **Reverse Engineering** | Tearing binaries apart to understand the internals |
+| <img src="https://cdn.simpleicons.org/icloud/white" width="18"> | **Cloud Security** | Hardening AWS / Azure cloud environments |
 | <img src="https://cdn.simpleicons.org/rust/white" width="18"> | **Advanced Rust** | Memory-safe exploit development |
 | <img src="https://cdn.simpleicons.org/openbugbounty/white" width="18"> | **Threat Modeling** | Anticipating attack vectors before they're exploited |
-| <img src="https://cdn.simpleicons.org/openai/white" width="18"> | **AI + Security** | ML-powered vulnerability scanning & detection |
+| <img src="https://cdn.simpleicons.org/probot/white" width="18"> | **AI + Security** | ML-powered vulnerability scanning & detection |
 
 </div>
 
@@ -252,6 +252,9 @@ fn main() {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atulhacks/atulhacks/output/github-snake.svg" />
   <img alt="github-snake" width="100%" src="https://raw.githubusercontent.com/atulhacks/atulhacks/output/github-snake-dark.svg" />
 </picture>
+
+> **Note:** If the snake is not visible, go to **Actions** tab → **Generate Snake Animation** → **Run workflow** to generate it for the first time.
+
 </div>
 
 <br>
@@ -284,7 +287,7 @@ fn main() {
 
 <div align="center">
 
-| <img src="https://cdn.simpleicons.org/codereview/e63946" width="16"> Code Reviews | <img src="https://cdn.simpleicons.org/hackthebox/e63946" width="16"> Security Tool Collabs | <img src="https://cdn.simpleicons.org/buymeacoffee/e63946" width="16"> Tech Chats | <img src="https://cdn.simpleicons.org/owasp/e63946" width="16"> Bug Hunting |
+| <img src="https://cdn.simpleicons.org/codacy/e63946" width="16"> Code Reviews | <img src="https://cdn.simpleicons.org/hackthebox/e63946" width="16"> Security Tool Collabs | <img src="https://cdn.simpleicons.org/buymeacoffee/e63946" width="16"> Tech Chats | <img src="https://cdn.simpleicons.org/owasp/e63946" width="16"> Bug Hunting |
 |:-:|:-:|:-:|:-:|
 | Always happy to help | Let's build something | Grab a virtual coffee | Found a vuln? Let's talk |
 
