@@ -251,8 +251,8 @@ fn main() {
 <br>
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k3qdkgp4yd5ebdzxxm7g6kjiqy&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=e63946&bar_color_cover=true" alt="Spotify Now Playing" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31nitxpvgfw5jy2uupauyokim2sa&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nitxpvgfw5jy2uupauyokim2sa&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=e63946&bar_color_cover=true" alt="Spotify Now Playing" />
   </a>
 </p>
 
