@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:e63946&height=220&section=header&text=atulhacks&fontSize=80&fontColor=c9d1d9&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20%7C%20Red%20Teamer%20%7C%20Rust%20Enthusiast&descSize=18&descAlignY=55&descColor=8b949e">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:c0392b,100:e63946&height=220&section=header&text=atulhacks&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20%7C%20Red%20Teamer%20%7C%20Rust%20Enthusiast&descSize=18&descAlignY=55&descColor=f0f0f0">
-  <img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:c0392b,100:e63946&height=220&section=header&text=atulhacks&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20%7C%20Red%20Teamer%20%7C%20Rust%20Enthusiast&descSize=18&descAlignY=55&descColor=f0f0f0">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:e63946,100:ff6b6b&height=220&section=header&text=atulhacks&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20%7C%20Red%20Teamer%20%7C%20Rust%20Enthusiast&descSize=18&descAlignY=55&descColor=ffffff">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:e63946,100:c0392b&height=220&section=header&text=atulhacks&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20%7C%20Red%20Teamer%20%7C%20Rust%20Enthusiast&descSize=18&descAlignY=55&descColor=ffffff">
+  <img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:e63946,100:c0392b&height=220&section=header&text=atulhacks&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20%7C%20Red%20Teamer%20%7C%20Rust%20Enthusiast&descSize=18&descAlignY=55&descColor=ffffff">
 </picture>
 
 <div align="center">
@@ -331,7 +331,7 @@ namespace atulhacks {
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:e63946&height=120&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:c0392b,100:e63946&height=120&section=footer">
-  <img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:c0392b,100:e63946&height=120&section=footer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:e63946,100:ff6b6b&height=120&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:e63946,100:c0392b&height=120&section=footer">
+  <img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:e63946,100:c0392b&height=120&section=footer">
 </picture>
