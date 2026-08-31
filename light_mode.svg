@@ -1,0 +1,221 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" width="1100px" height="530px" font-size="16px">
+<style>
+.key {fill: #c0392b;}
+.value {fill: #24292f;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.cc {fill: #8c959f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="1100px" height="530px" fill="#f6f8fa" rx="15"/>
+<g transform="translate(15,28) scale(0.6)"><text x="0" y="0" font-size="8px" xml:space="preserve" fill="#0969da">
+<tspan x="0" y="6.24">ooooooooooOOooooooooOOOOOOOOOOoOOOooooOOOOOOooOOOOOoooooOOOoooOOOOOoooooooOooooOOooOoooOOOOoOooooOOOoOOOoOOOooooooooooOOOooooooooo</tspan>
+<tspan x="0" y="12.48">ooooOOOOOoooooooooooooOOOooOOOOOOOOooOOOOOOOOOOooOOOOOOOoooooooOOOoooooOOOOOOOoOoooooOOOoOOOOOOOOOOOOOOOOooOOOooOOoooooooooOOooooo</tspan>
+<tspan x="0" y="18.72">OooooooOOOooOooooOoOOOOoOOOOOOOOOOOOOOOOOOoooOOOoOOOOOoOooOOOOoooOooooooOOOooOoOOOooooOoooooooooooooOoOOOOOOOOOooOOOoOoooooooooooo</tspan>
+<tspan x="0" y="24.96">oooooOOOOOOOoOoOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOoOoOOOOOOOOOOOOOoooOOOoooooOoooOOOOOoooOOOOOoOooOooOOOoooOOOoOoooooooooooo</tspan>
+<tspan x="0" y="31.20">ooooooooOoOOoOOOOOOOOOOOOOOOOOOOoOOoooooOOOOOOOOOOOOOOooOooOOoooOoOOooOOOOOOoOOOoOOOOOOOOOOOooOOOOOOOOOOOOOOOOoOoOooooooooOOOooooo</tspan>
+<tspan x="0" y="37.44">oOOooOOOoOOOOoooOOOOoOoooOOOOOOOOOOoOOOOOOOOOOOOOOOOoOOoOOOOOOOoOOOOoOOOOOOOOooooOoooooOOOOOOOOOOOOOOOOOOOoOoOooooOOOoooooOOOOoooo</tspan>
+<tspan x="0" y="43.68">ooooOOooooOOOOOOOOOOOOOOOOOOoOOOOOOOOOOOOoOoOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOoooOOOOOoOOOOoooOOOOOOOOOOOOOOOOOOOOOooooOOooooooooooooo</tspan>
+<tspan x="0" y="49.92">oOOOOOOOOOOOOOOOOOOOoOOOOOOOOOOOooOOOOOOOOOOOOOoOOOOOOOOOOOOOOoOOooooOOOOOOOOoOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOoooooooOOoooooooooooo</tspan>
+<tspan x="0" y="56.16">oooOOooOOOOOooOOOOOOOOoOOOoOOOOooooOOOOOOOOOOOOOOOOOOOOoOOOOOOooOOOOOooOoooOOOOOOOOOOoooooooOOOOooooooOOoOOoooOOOOOOOooooooooooooo</tspan>
+<tspan x="0" y="62.40">ooooooOoooooOOOOOOOOOOOOOOOOooOOOoooOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOoOOOOoooOOoOOOOOOOOOOOooooOOOooooooooOOoOOOOOOOOOOOooOOOOOOOOOOO</tspan>
+<tspan x="0" y="68.64">ooooooooooooooooooOOOOOOoOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOoooOOOOOOOOOOOOoOOOOOoOOOOOOOOooOoooooooOOOOOOOOooOoOOoooooooo</tspan>
+<tspan x="0" y="74.88">oooooooooooooooooOoooOooOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOoOOoooooooooOOOOOoOOOOOOOOOoooOOOOOOOOOOoOoooooooooo</tspan>
+<tspan x="0" y="81.12">ooooooooooooooooooOoooOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOooOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOoooooOOOOOoooo***ooooooooooooooOOOOO</tspan>
+<tspan x="0" y="87.36">oooooooooooooooooooooooOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOooOOOOOoOOOOoOOOOOOOOooooooooo</tspan>
+<tspan x="0" y="93.60">oooooooooooooooooooooOOOOOOOOOooOoOOOOOOOOoOOOooooOooooOOOOOOOOOOOOOOOOOOooOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOoooooooOOOoooooOOOooo</tspan>
+<tspan x="0" y="99.84">oooooooooooooooooooooooooooooOOOOOOOOOOOOOOOOOOOOOOOoOOOoooOOOOOOOOOOOOOOOOOOoooOOOOOOOOOOOOOOOOOOOOOOOOoOoooOoOoOOOOOOOoooooooooo</tspan>
+<tspan x="0" y="106.08">oooooooooooooooooooooooooooooOOoOoooOooOoOOoOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOooooooOoOOOoooOoooOOOooOOOOOOOOooooooooOOOOOO</tspan>
+<tspan x="0" y="112.32">oooooooooooooooooooooooooooooooooOoOoOOoOOOoooooooooooooOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOooooooOOOOOOOOOOOOooooooooooOooOooooOO</tspan>
+<tspan x="0" y="118.56">ooooooooooooooooooooooooooooooooooOooOOOOOoooOOOOOOOOoooOoooooooOOOOoOOOOOOOOOOOOOOOOOOOOOOOoooOOOOOOoOOoOOOOOoooOOOOOOOOOOooooooo</tspan>
+<tspan x="0" y="124.80">ooooooooooooooooooooooooooooooooooooooooOOoooOoOoooOOOOOOOOOOOOOooOOOoOOOOOOOOOOOOOOOOOOOOOOOOoooooOOOOOOOOOOOooOoooOOoooooooooooo</tspan>
+<tspan x="0" y="131.04">oooooooooooooooooooooooooooooooooooooooooooOOoOoooOOOoooOOOOOOOOOOOOOoOOoooOOOOOOOoOOOOOOOOOOOOOooOOOOOOOooooOOOOOoooooooooooooooo</tspan>
+<tspan x="0" y="137.28">ooooooooooooooooooooooooooooooooooooooooooooooOOOOOOoOoooooooOOooOoooOOOOOooooOOOOoooOOOOOooooooooOooooooooooooooooooooooooooooooo</tspan>
+<tspan x="0" y="143.52">oooooooooooooooooooooooOOooooOooooooooooooooooooOOooooooooooooooooooooooOoOOooooooooooOOOoOoooooOOOoooooOooooooooOooooooOOOooooooo</tspan>
+<tspan x="0" y="149.76">oooooooooooooooooooooooooooooooooooooooooOoooooooOoooooooooooooooooooooooooooooooooooooOoooooooOooOooOOOOooooooooooooooooooooooooo</tspan>
+<tspan x="0" y="156.00">oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo*ooooooooooo*ooooooooooooooOOOOOOOOOooOoOOOoooOOoOoooooo</tspan>
+<tspan x="0" y="162.24">oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo*++++=====:---::.-..:=++******oooooooooooooooooooOooooooOOOooooooooooo</tspan>
+<tspan x="0" y="168.48">oooooooooooooooooooooooooooooooooooooooooo*oooooo+=:------....-------.........     .:--::***ooooooooooooooooooooooOOooooooooooOooo</tspan>
+<tspan x="0" y="174.72">oooooooooooooooooooooooooooooooooooooooooooo*::-------............... ...               - -:+*oooooooooooooooooooooooooooooooooooo</tspan>
+<tspan x="0" y="180.96">oooooooooooooooooooooooooooooooooooooooo*:.........-............-.  . ..                    --*+*+*ooooooooooooooooooooooooooooooo</tspan>
+<tspan x="0" y="187.20">oooooooooooooooooooooooOOOooooooooo*+:..           .-...   ...                                -.::++*ooooooooooooooooooooooooooooo</tspan>
+<tspan x="0" y="193.44">ooooooooooooooooooooooooooooooooo*:..   ..     .....              . .                          ..  -=*oooooooooooooooooooooooooooo</tspan>
+<tspan x="0" y="199.68">ooooooooooooooooooooooooooooooo*+-.            .... ....           .                              .:-:+ooooooooooooooooooooooooooo</tspan>
+<tspan x="0" y="205.92">ooooooooooooooooooooooooooooo+-.                      ...                                   .        ..-=*oooooooooooooooooooooooo</tspan>
+<tspan x="0" y="212.16">ooooooooooooooooooooooooooo+:                     ..       .                                            :+oooooooooooooooooooooooo</tspan>
+<tspan x="0" y="218.40">oooooooooooooooooooooooooo=                                                                    .         -+ooooooooooooooooooooooo</tspan>
+<tspan x="0" y="224.64">ooooooooooooooooooooooo*+:-                                                                               :*oooooooooooooooooooooo</tspan>
+<tspan x="0" y="230.88">OooOoooooooooooooooooo**:                       ... .                                                      :+ooooooooooooooooooooo</tspan>
+<tspan x="0" y="237.12">ooooOOooooooooooooooooo+:                          ...                        .                            .+ooooooooooooooooooooo</tspan>
+<tspan x="0" y="243.36">ooooooooooooooooooooooo+.                                ..                    ...... ..                   .+ooooooooooooooooooooo</tspan>
+<tspan x="0" y="249.60">ooooooooOOOoooooooooo*=.                                                   . ...-..   -..   .               :ooooooooooooooooooooo</tspan>
+<tspan x="0" y="255.84">oooooooooooooooooooo*+:                                      . ... .......-----:=-:-.--.. .                 -*oooooooooooooooooooo</tspan>
+<tspan x="0" y="262.08">oooooooooooooooooooooo=                         .. ..  . .........--...----::::===::--....                  -+oooooooooooooooooooo</tspan>
+<tspan x="0" y="268.32">ooooooOooooooooooooo+=.                  . ...........-....---------.----:::======::---...  .               .=oooooooooooooooooooo</tspan>
+<tspan x="0" y="274.56">oooooooooooooooOooooo+.          .. .......---------....-:::::--------::==========::----.:..                -*oooooooooooooooooooo</tspan>
+<tspan x="0" y="280.80">oooooooooooooooooooooo*:     .--.........------::::::::=====:::::-::========+=+====::--....  ..  ..         .*oooooooooooooooooooo</tspan>
+<tspan x="0" y="287.04">ooooooooooooooooooooooo*=    -----..-------------:::=======::=:=======:====+++++++==::--. .   ...           -*oooooooooooooooooooo</tspan>
+<tspan x="0" y="293.28">ooooooooooooooooooOOooooo:  .::--------:::=============================++++++++++++====:::-..   .           -ooooooooooooooooooooo</tspan>
+<tspan x="0" y="299.52">ooooooooooooooooooooooooo+  .::-------:--::::::==============+==++++++++++++++++++++++++====:-  ...         =ooooooooooooooooooooo</tspan>
+<tspan x="0" y="305.76">ooooooooooooooooooooooooo*= -::------------:::=====::======++=====:====:====++++++++++++++++++=-...         =ooooooooooooooooooooo</tspan>
+<tspan x="0" y="312.00">oooooooooooooooooooooooooo+..::-----:::::::--::::::::::=====:--.-----.-.-------.:+++++++==+=+++=:....       +ooooooooooooooooooooo</tspan>
+<tspan x="0" y="318.24">ooooooooooooooooooooooooooo--:::--:::::::==::---::::::::::.-            . .-...-..--:========+++==-...     =++++*ooooooooooooooooo</tspan>
+<tspan x="0" y="324.48">ooooooooooooooooooooooooooo+:::--------::::=:::::::::--...               ..------------:::========:-....:=++=.  -=*ooooooooooooooo</tspan>
+<tspan x="0" y="330.72">ooooooooooooooooooooooooooooo:.          ..------:::--..                   .......---::::::=====+==--.-+++:..-....:+oooooooooooooo</tspan>
+<tspan x="0" y="336.96">ooooooooooooooooooooooooooooo-              ...-------....           .-:-:::---   .---::===========-..-=:-..-====--=oooooooooooooo</tspan>
+<tspan x="0" y="343.20">ooooooooooooooooooooooooooooo- ...            ..---:::-..                   .     .--::==+++++++===:-..:-   .-:==::+oooooooooooooo</tspan>
+<tspan x="0" y="349.44">oooooooooooooooooooooooooooooo=:-.              .:=++++:.         .--      .-=+::++**+**++++++++====:-.=:    -:=::=+oooooooooooooo</tspan>
+<tspan x="0" y="355.68">ooooooooooooooooooooooooooooooo::.               :+****+=-.        ..... .::.::=+*********+++++++===::--=-=+::==:==ooooooooooooooo</tspan>
+<tspan x="0" y="361.92">ooooooooooooooooooooooooooooooo+----:-.          ++*****++++++=:..      .. -:+****ooo*****+++++++====:--=:==++=::=+ooooooooooooooo</tspan>
+<tspan x="0" y="368.16">oooooooooooooooooooooooooooooooo::--.           :++**************+::---:=++++**********+++++++++=+===:---:=**=:===oooooooooooooooo</tspan>
+<tspan x="0" y="374.40">oooooooooooooooooooooooooooooooo:::--..     ..-:=+*******************++++++++*****++++++++++++++=====:.--:=::++++*oooooooooooooooo</tspan>
+<tspan x="0" y="380.64">oooooooooooooooooooooooooooooooo:::---....-:====++**********************+++++++=++++++=++++++========::-::=+++++*ooooooooooooooooo</tspan>
+<tspan x="0" y="386.88">ooooooooooooooooooooooooooooooo*::------======:++**oo******************++++++++++++++================::-=+****++oooooooooooooooooo</tspan>
+<tspan x="0" y="393.12">ooooooooooooooooooooooooooooooo*::--::=======:=++**oo******+++++++++++++++++++=+=======::::=========:::--====:*ooooooooooooooooooo</tspan>
+<tspan x="0" y="399.36">ooooooooooooooooooooooooooooo**+=::::========:=++**oooo****+++++++++++++++++++=====::::::::::::::::::::::*oooooooooooooooooooooooo</tspan>
+<tspan x="0" y="405.60">ooooooooooooooooooooooooooo**+===:::::::========++++***+++****++====++++++=+=======:::::::::::::--:::::::*oooooooooooooooooooooooo</tspan>
+<tspan x="0" y="411.84">ooooooo*ooooooooooooooooo**+=====:::::::::::=:::::=::-.---:::===-===============::::::::-----------:-:-::*oooooooooooooooooooooooo</tspan>
+<tspan x="0" y="418.08">oooooooooooooooooooooooo**+========::----::::-. -....         ..==+++============::::::::-------------:-:+oooooooooooooooooooooooo</tspan>
+<tspan x="0" y="424.32">ooooooooooooooooooooooo*+==========:::----::--......         .:=+++++++========::==:::::---------------::+oooooooooooooo**oooooooo</tspan>
+<tspan x="0" y="430.56">oooooooooo******oooooo*+======:=====::::------...        .::==+++++++++==========:::::::---------------::=ooooooooooooooooooooo*oo</tspan>
+<tspan x="0" y="436.80">*ooooooooooooooooooo**+=============:::::---...        .----::=:==:=:========:::::::::::----------..--::=:oooooooooooooooooooooooo</tspan>
+<tspan x="0" y="443.04">oooo**ooooooooooo****+==========:::===::::-..      .-::----.-------..---::::::::::::::---------.....-:::=:+ooooooooooooooooooooooo</tspan>
+<tspan x="0" y="449.28">ooooo**oo*ooooooooo*+==============:==::::-.                            .------::::----------.... ..-:::::=ooooooooooooooooooooooo</tspan>
+<tspan x="0" y="455.52">*oooo*oooooo****o**+===================:=::-.      ..      ...........    .....---------......    ..-::::==*oooooooooooooooooooooo</tspan>
+<tspan x="0" y="461.76">oooooo*ooooooo*o**+==:==========:==:===:::::.   ........---------..........--...-.------...      ..-::::====oooooooooooooooooooooo</tspan>
+<tspan x="0" y="468.00">oo**o*****oooooo**+==:=======:==:=:==::::::::.......             ....--.-.---...-----...         ..::=:=====+ooooooooooooooooooooo</tspan>
+<tspan x="0" y="474.24">oooooo***oooooo**+=======::=:=:=:==:::::=:::::-.....          ...----:---::::----.....          ..-==========+*ooooooooooooooooooo</tspan>
+<tspan x="0" y="480.48">o**oooooo***oo**+==============:=:::::::::::::::.........--:==++++=======::::--...              .-=====:=====+++oo*ooooooooooooooo</tspan>
+<tspan x="0" y="486.72">******o********+======:===::::::::::::::::        ....-::=========::::::::-...                 .-=====::====+++++++.   -+o*ooo****</tspan>
+<tspan x="0" y="492.96">ooo*oo********+====::====::::=:::::::-              .....----:-:--------...                   .-=====::======+++++++++:   **o*oo**</tspan>
+<tspan x="0" y="499.20">****o********++===========::=-                                                               .:=====:::====+++++++++++++:      :**</tspan>
+<tspan x="0" y="505.44">***o*********+========::=-                                                                  .:====:::::==+++++++++**+++=          </tspan>
+<tspan x="0" y="511.68">************++=====-                                                                      .-:=====:::===++++++++++***+:           </tspan>
+<tspan x="0" y="517.92">*********o*+.                                                                            .-:=======::==+++++++++****+:            </tspan>
+<tspan x="0" y="524.16">***oo**+ ..                                                                ..............:=========:=+++++*+++++****.             </tspan>
+<tspan x="0" y="530.40">.                                                                          ............-:===+++=====++*************               </tspan>
+<tspan x="0" y="536.64">...                                                                         ....------======++++==+++***********+                 </tspan>
+<tspan x="0" y="542.88">                                                                            ...---:=+++++==++++++++************                   </tspan>
+<tspan x="0" y="549.12">                                                                             .-:=++****++++++++++***********.                     </tspan>
+<tspan x="0" y="555.36">                                                                               -*********+++++*+**********+                       </tspan>
+<tspan x="0" y="561.60">                                                                                 -***********************.                        </tspan>
+<tspan x="0" y="567.84">                                                                                    :*****************+                           </tspan>
+<tspan x="0" y="574.08">                                                                                        -+********=                               </tspan>
+<tspan x="0" y="580.32">                                                                                                                                  </tspan>
+<tspan x="0" y="586.56">                                                                                                                                  </tspan>
+<tspan x="0" y="592.80">                                                                                                                                  </tspan>
+<tspan x="0" y="599.04">                                                                                                                                  </tspan>
+<tspan x="0" y="605.28">                                                                                                                                  </tspan>
+<tspan x="0" y="611.52">                                                                                                                                  </tspan>
+<tspan x="0" y="617.76">                                                                                                                                  </tspan>
+<tspan x="0" y="624.00">                                                                                                                                  </tspan>
+<tspan x="0" y="630.24">                                                                                                                                  </tspan>
+<tspan x="0" y="636.48">                                                                                                                                  </tspan>
+<tspan x="0" y="642.72">                                                                                                                                  </tspan>
+<tspan x="0" y="648.96">                                                                                                                                  </tspan>
+<tspan x="0" y="655.20">                                                                                                                                  </tspan>
+<tspan x="0" y="661.44">                                                                                    .                                             </tspan>
+<tspan x="0" y="667.68">                                                                            -:::::::::::::   .:::::::-.                           </tspan>
+<tspan x="0" y="673.92">                                                                     .:::::=:-:::==-. ..      .-=:::::::::::-::::..               </tspan>
+<tspan x="0" y="680.16">                                                                  -:::::::::                             ..---:=:--::-            </tspan>
+<tspan x="0" y="686.40">                                                              .=====::-           ..   :-   .                     -:==::::-       </tspan>
+<tspan x="0" y="692.64">                                                           .::::::-        :   .:  :   :    -.     . :::    :         -:::-:::-   </tspan>
+<tspan x="0" y="698.88">                                                         :::::=.       -   -:   :  :   -    : .    . =.:   .: :  -        .::::::-</tspan>
+<tspan x="0" y="705.12">                                                      :::=:=          - -   -    -  :   --  ::-      : :   :..- . =          .::::</tspan>
+<tspan x="0" y="711.36">                                                   --::::-      .=:    :     :   -  :    .    .      : -   =-:  -       .-.      :</tspan>
+<tspan x="0" y="717.60">                                                 :::--:         .:      : -   :                      .-   .  -  -.     -- :       </tspan>
+<tspan x="0" y="723.84">                                               :::::      -:::    ::     ::                                    .-     :: :    -:  </tspan>
+<tspan x="0" y="730.08">                                   .-        --:::         -- :-   .-.:                                              -- :    :  - </tspan>
+<tspan x="0" y="736.32">.                                ---       ::---     .::.    :-                                                       -:   -::-   </tspan>
+<tspan x="0" y="742.56">+=:                           ::--.      .-:::       .:       .-                                                          -.      </tspan>
+<tspan x="0" y="748.80">+==::                       .--::-     .:---              -:.                                                                     </tspan>
+<tspan x="0" y="755.04">=====:                     .--::-     :-::-     :-       .--:        .::                                            .             </tspan>
+<tspan x="0" y="761.28">====::-                      ---    .-----     - --                .:::::                                          :::-          -</tspan>
+<tspan x="0" y="767.52">===:::-                     ----   -:---            --           --:::::::.                                       -:--:::-        </tspan>
+<tspan x="0" y="773.76">===:::.                  .  ---   ::::-    .--.                --::::-:-:---                                    --.----:-:::      </tspan>
+<tspan x="0" y="780.00">=::::-                 ..   --:  :-:--      --   -.          -----:-:------::-                                 :::----::::::::.   </tspan>
+<tspan x="0" y="786.24">=:::-.                ...   -:: :::--          .--.-        -:::----   ---:::::.                             ::::::--. -:-::::::- </tspan>
+<tspan x="0" y="792.48">=::--                ...    -:-....-     --               -::::::-       -::::::-                           --::::::     -:::=::=:</tspan>
+</text></g>
+<text x="430" y="0" fill="#24292f">
+<tspan x="430" y="30" class="key">atul@github</tspan><tspan class="cc">:~$</tspan>
+<tspan x="430" y="50" class="cc">. </tspan>
+<tspan class="key">OS</tspan>
+<tspan class="cc">....................</tspan>
+<tspan class="value">Kali Linux, Windows 11</tspan>
+<tspan x="430" y="70" class="cc">. </tspan>
+<tspan class="key">Uptime</tspan>
+<tspan class="cc" id="age_data_dots"> .............. </tspan>
+<tspan id="age_data" class="value">5 years, 5 months, 22 days</tspan>
+<tspan x="430" y="90" class="cc">. </tspan>
+<tspan class="key">Role</tspan>
+<tspan class="cc">........</tspan>
+<tspan class="value">Security Researcher | Red Teamer</tspan>
+<tspan x="430" y="110" class="cc">. </tspan>
+<tspan class="key">Focus</tspan>
+<tspan class="cc">.......</tspan>
+<tspan class="value">Reverse Engineering, Exploit Dev</tspan>
+<tspan x="430" y="130" class="cc">. </tspan>
+<tspan class="key">IDE</tspan>
+<tspan class="cc">...........................</tspan>
+<tspan class="value">Neovim, VSCode</tspan>
+<tspan x="430" y="150" class="cc">. </tspan>
+<tspan x="430" y="170" class="cc">. </tspan>
+<tspan class="key">Languages</tspan>
+<tspan class="key"> Programming</tspan>
+<tspan class="cc">...</tspan>
+<tspan class="value">Rust, C, C++, Python</tspan>
+<tspan x="430" y="190" class="cc">. </tspan>
+<tspan class="key">Languages</tspan>
+<tspan class="key"> Scripting</tspan>
+<tspan class="cc">...</tspan>
+<tspan class="value">Bash, PowerShell, JavaScript</tspan>
+<tspan x="430" y="210" class="cc">. </tspan>
+<tspan class="key">Languages</tspan>
+<tspan class="key"> Real</tspan>
+<tspan class="cc">................</tspan>
+<tspan class="value">English, Hindi</tspan>
+<tspan x="430" y="230" class="cc">. </tspan>
+<tspan x="430" y="250" class="cc">. </tspan>
+<tspan class="key">Hobbies</tspan>
+<tspan class="key"> OffSec</tspan>
+<tspan class="cc">...</tspan>
+<tspan class="value">Malware Development, AV Evasion</tspan>
+<tspan x="430" y="270" class="cc">. </tspan>
+<tspan class="key">Hobbies</tspan>
+<tspan class="key"> Ranges</tspan>
+<tspan class="cc">........</tspan>
+<tspan class="value">HackTheBox, Bug Bounty</tspan>
+<tspan x="430" y="290" class="key">- Contact</tspan>
+<tspan x="430" y="310" class="cc">. </tspan>
+<tspan class="key">HTB</tspan>
+<tspan class="cc">.................................</tspan>
+<tspan class="value">atulhack</tspan>
+<tspan x="430" y="330" class="cc">. </tspan>
+<tspan class="key">Telegram</tspan>
+<tspan class="cc">..........................</tspan>
+<tspan class="value">@atulhacks</tspan>
+<tspan x="430" y="350" class="cc">. </tspan>
+<tspan class="key">LinkedIn</tspan>
+<tspan class="cc">............................</tspan>
+<tspan class="value">atulhack</tspan>
+<tspan x="430" y="370" class="cc">. </tspan>
+<tspan class="key">Keybase</tspan>
+<tspan class="cc">.............................</tspan>
+<tspan class="value">atulhack</tspan>
+<tspan x="430" y="410" class="key">- GitHub Stats</tspan>
+<tspan x="430" y="430" class="cc">. </tspan>
+<tspan class="key">Repos</tspan>
+<tspan class="cc" id="repo_data_dots"> .... </tspan>
+<tspan id="repo_data" class="value">10</tspan><tspan class="key"> Contributed </tspan><tspan class="value" id="contrib_data">11</tspan><tspan class="key"> Stars</tspan><tspan class="cc" id="star_data_dots"> ............. </tspan><tspan class="value" id="star_data">2</tspan>
+<tspan x="430" y="450" class="cc">. </tspan>
+<tspan class="key">Commits</tspan>
+<tspan class="cc" id="commit_data_dots"> .................... </tspan>
+<tspan id="commit_data" class="value">69</tspan><tspan class="key"> Followers</tspan><tspan class="cc" id="follower_data_dots"> ......... </tspan><tspan class="value" id="follower_data">6</tspan>
+<tspan x="430" y="470" class="cc">. </tspan>
+<tspan class="key">Lines of Code on GitHub</tspan>
+<tspan class="cc" id="loc_data_dots"> ... </tspan>
+<tspan id="loc_data" class="value">22,299</tspan><tspan class="cc"> </tspan><tspan class="addColor" id="loc_add">25,760</tspan><tspan class="addColor">++</tspan><tspan class="delColor" id="loc_del_dots">. </tspan><tspan class="delColor" id="loc_del">3,461</tspan><tspan class="delColor">--</tspan>
+</text>
+</svg>
