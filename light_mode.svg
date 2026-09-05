@@ -147,7 +147,7 @@ text, tspan {white-space: pre;}
 <tspan x="430" y="70" class="cc">. </tspan>
 <tspan class="key">Uptime</tspan>
 <tspan class="cc" id="age_data_dots"> .............. </tspan>
-<tspan id="age_data" class="value">5 years, 5 months, 26 days</tspan>
+<tspan id="age_data" class="value">5 years, 5 months, 27 days</tspan>
 <tspan x="430" y="90" class="cc">. </tspan>
 <tspan class="key">Role</tspan>
 <tspan class="cc">........</tspan>
