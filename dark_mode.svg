@@ -22,7 +22,7 @@ text, tspan {white-space: pre;}
   .clover-scan { display:none; }
 }
 </style>
-<rect width="1100px" height="530px" fill="#0d1117" rx="15" />
+<rect width="1100px" height="530px" fill="#0d1117" rx="15"/>
 <g transform="translate(15,163) scale(0.62)"><text x="0" y="0" font-size="8px" xml:space="preserve" fill="#212a3a">
 <tspan x="0" y="6.24">◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈</tspan>
 <tspan x="0" y="12.48">◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈</tspan>
@@ -267,7 +267,7 @@ text, tspan {white-space: pre;}
 </text><text x="430" y="0" fill="#c9d1d9" class="terminal-row" style="animation-delay:0.104s"><tspan x="430" y="70" class="cc">. </tspan>
 <tspan class="key">Uptime</tspan>
 <tspan class="cc" id="age_data_dots"> .............. </tspan>
-<tspan id="age_data" class="value">5 years, 6 months, 21 days</tspan>
+<tspan id="age_data" class="value">5 years, 6 months, 28 days</tspan>
 </text><text x="430" y="0" fill="#c9d1d9" class="terminal-row" style="animation-delay:0.156s"><tspan x="430" y="90" class="cc">. </tspan>
 <tspan class="key">Role</tspan>
 <tspan class="cc">........</tspan>
@@ -328,16 +328,16 @@ text, tspan {white-space: pre;}
 </text><text x="430" y="0" fill="#c9d1d9" class="terminal-row" style="animation-delay:0.988s"><tspan x="430" y="430" class="cc">. </tspan>
 <tspan class="key">Repos</tspan>
 <tspan class="cc" id="repo_data_dots"> .... </tspan>
-<tspan id="repo_data" class="value">12</tspan><tspan class="key"> Contributed </tspan><tspan class="value" id="contrib_data">13</tspan><tspan class="key"> Stars</tspan><tspan class="cc" id="star_data_dots"> ............. </tspan><tspan class="value" id="star_data">3</tspan>
+<tspan id="repo_data" class="value">14</tspan><tspan class="key"> Contributed </tspan><tspan class="value" id="contrib_data">15</tspan><tspan class="key"> Stars</tspan><tspan class="cc" id="star_data_dots"> ............. </tspan><tspan class="value" id="star_data">9</tspan>
 </text><text x="430" y="0" fill="#c9d1d9" class="terminal-row" style="animation-delay:1.040s"><tspan x="430" y="450" class="cc">. </tspan>
 <tspan class="key">Commits</tspan>
-<tspan class="cc" id="commit_data_dots"> .................... </tspan>
-<tspan id="commit_data" class="value">64</tspan><tspan class="key"> Followers</tspan><tspan class="cc" id="follower_data_dots"> ........ </tspan><tspan class="value" id="follower_data">11</tspan>
+<tspan class="cc" id="commit_data_dots"> ................... </tspan>
+<tspan id="commit_data" class="value">122</tspan><tspan class="key"> Followers</tspan><tspan class="cc" id="follower_data_dots"> ........ </tspan><tspan class="value" id="follower_data">11</tspan>
 </text><text x="430" y="0" fill="#c9d1d9" class="terminal-row" style="animation-delay:1.092s"><tspan x="430" y="470" class="cc">. </tspan>
 <tspan class="key">Lines of Code on GitHub</tspan>
 <tspan class="cc" id="loc_data_dots"> ... </tspan>
-<tspan id="loc_data" class="value">25,392</tspan><tspan class="cc"> </tspan><tspan class="addColor" id="loc_add">29,005</tspan><tspan class="addColor">++</tspan><tspan class="delColor" id="loc_del_dots">. </tspan><tspan class="delColor" id="loc_del">3,613</tspan><tspan class="delColor">--</tspan>
-</text><defs><clipPath id="clover-scan-clip" clipPathUnits="userSpaceOnUse"><rect x="15" y="0" width="405" height="15" class="scan-window" /></clipPath></defs><g class="clover-scan" clip-path="url(#clover-scan-clip)" opacity=".65"><g transform="translate(15,163) scale(0.62)"><text x="0" y="0" font-size="8px" xml:space="preserve" fill="#ffb6c0">
+<tspan id="loc_data" class="value">85,943</tspan><tspan class="cc"> </tspan><tspan class="addColor" id="loc_add">94,992</tspan><tspan class="addColor">++</tspan><tspan class="delColor" id="loc_del_dots">. </tspan><tspan class="delColor" id="loc_del">9,049</tspan><tspan class="delColor">--</tspan>
+</text><defs><clipPath id="clover-scan-clip" clipPathUnits="userSpaceOnUse"><rect x="15" y="0" width="405" height="15" class="scan-window"/></clipPath></defs><g class="clover-scan" clip-path="url(#clover-scan-clip)" opacity=".65"><g transform="translate(15,163) scale(0.62)"><text x="0" y="0" font-size="8px" xml:space="preserve" fill="#ffb6c0">
 <tspan x="0" y="6.24">                                                                                                                                  </tspan>
 <tspan x="0" y="12.48">                                                                                                                                  </tspan>
 <tspan x="0" y="18.72">                                                                                                                                  </tspan>
@@ -396,4 +396,4 @@ text, tspan {white-space: pre;}
 <tspan x="0" y="349.44">                                                                                                                                  </tspan>
 <tspan x="0" y="355.68">                                                                                                                                  </tspan>
 </text></g>
-</g><rect x="561" y="17" width="8" height="15" fill="#f16c78" class="cursor" /></svg>
+</g><rect x="561" y="17" width="8" height="15" fill="#f16c78" class="cursor"/></svg>
