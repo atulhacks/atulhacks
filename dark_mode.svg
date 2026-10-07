@@ -1,14 +1,28 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" width="1100px" height="530px" font-size="16px">
-<style>
-.key {fill: #e63946;}
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" width="1100px" height="530px" font-size="16px" viewBox="0 0 1100 530" data-motion="clover-terminal-v1">
+<title>Atul — security researcher and reverse engineer</title><desc>ASCII clover on the left, terminal profile on the right. Slow clover pulse, occasional scan, one-time row reveal and blinking cursor.</desc><style>
+.key {fill: #f16c78;}
 .value {fill: #c9d1d9;}
 .addColor {fill: #3fb950;}
 .delColor {fill: #f85149;}
-.cc {fill: #30363d;}
+.cc {fill: #596370;}
 text, tspan {white-space: pre;}
+
+/* Motion stays inside the asset: no JavaScript or external resources. */
+.terminal-row { animation: boot .32s ease-out both; }
+.clover-ink { animation: breathe 6s ease-in-out infinite; }
+.scan-window { animation: scan 10s linear infinite; }
+.cursor { animation: cursor 1.2s steps(1,end) infinite; }
+@keyframes boot { from { opacity: .22; } to { opacity: 1; } }
+@keyframes breathe { 0%,100% { opacity:.78; } 50% { opacity:1; } }
+@keyframes scan { 0% { transform:translateY(145px); } 22%,100% { transform:translateY(402px); } }
+@keyframes cursor { 0%,49% { opacity:1; } 50%,100% { opacity:0; } }
+@media (prefers-reduced-motion: reduce) {
+  .terminal-row,.clover-ink,.scan-window,.cursor { animation:none !important; opacity:1; }
+  .clover-scan { display:none; }
+}
 </style>
-<rect width="1100px" height="530px" fill="#0d1117" rx="15"/>
+<rect width="1100px" height="530px" fill="#0d1117" rx="15" />
 <g transform="translate(15,163) scale(0.62)"><text x="0" y="0" font-size="8px" xml:space="preserve" fill="#212a3a">
 <tspan x="0" y="6.24">◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈</tspan>
 <tspan x="0" y="12.48">◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈</tspan>
@@ -68,7 +82,7 @@ text, tspan {white-space: pre;}
 <tspan x="0" y="349.44">◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈</tspan>
 <tspan x="0" y="355.68">◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈</tspan>
 </text></g>
-<g transform="translate(15,163) scale(0.62)"><text x="0" y="0" font-size="8px" xml:space="preserve" fill="#7a3030">
+<g transform="translate(15,163) scale(0.62)" class="clover-ink"><text x="0" y="0" font-size="8px" xml:space="preserve" fill="#7a3030">
 <tspan x="0" y="6.24">                                                                                                                                  </tspan>
 <tspan x="0" y="12.48">                                                                                                                                  </tspan>
 <tspan x="0" y="18.72">                                                                                                                                  </tspan>
@@ -127,7 +141,7 @@ text, tspan {white-space: pre;}
 <tspan x="0" y="349.44">                                                                                                                                  </tspan>
 <tspan x="0" y="355.68">                                                                                                                                  </tspan>
 </text></g>
-<g transform="translate(15,163) scale(0.62)"><text x="0" y="0" font-size="8px" xml:space="preserve" fill="#e63946">
+<g transform="translate(15,163) scale(0.62)" class="clover-ink"><text x="0" y="0" font-size="8px" xml:space="preserve" fill="#ef5c6c">
 <tspan x="0" y="6.24">                                                                                                                                  </tspan>
 <tspan x="0" y="12.48">                                                                                                                                  </tspan>
 <tspan x="0" y="18.72">                                                                                                                                  </tspan>
@@ -186,7 +200,7 @@ text, tspan {white-space: pre;}
 <tspan x="0" y="349.44">                                                                                                                                  </tspan>
 <tspan x="0" y="355.68">                                                                                                                                  </tspan>
 </text></g>
-<g transform="translate(15,163) scale(0.62)"><text x="0" y="0" font-size="8px" xml:space="preserve" fill="#c9d1d9">
+<g transform="translate(15,163) scale(0.62)" class="clover-ink"><text x="0" y="0" font-size="8px" xml:space="preserve" fill="#c9d1d9">
 <tspan x="0" y="6.24">                                                                                                                                  </tspan>
 <tspan x="0" y="12.48">                                                                                                                                  </tspan>
 <tspan x="0" y="18.72">                                                                                                                                  </tspan>
@@ -245,84 +259,141 @@ text, tspan {white-space: pre;}
 <tspan x="0" y="349.44">                                                                                                                                  </tspan>
 <tspan x="0" y="355.68">                                                                                                                                  </tspan>
 </text></g>
-<text x="430" y="0" fill="#c9d1d9">
-<tspan x="430" y="30" class="key">atul@github</tspan><tspan class="cc">:~$</tspan>
-<tspan x="430" y="50" class="cc">. </tspan>
+<text x="430" y="0" fill="#c9d1d9" class="terminal-row" style="animation-delay:0.000s"><tspan x="430" y="30" class="key">atul@github</tspan><tspan class="cc">:~$</tspan>
+</text><text x="430" y="0" fill="#c9d1d9" class="terminal-row" style="animation-delay:0.052s"><tspan x="430" y="50" class="cc">. </tspan>
 <tspan class="key">OS</tspan>
 <tspan class="cc">....................</tspan>
 <tspan class="value">Kali Linux, Windows 11</tspan>
-<tspan x="430" y="70" class="cc">. </tspan>
+</text><text x="430" y="0" fill="#c9d1d9" class="terminal-row" style="animation-delay:0.104s"><tspan x="430" y="70" class="cc">. </tspan>
 <tspan class="key">Uptime</tspan>
 <tspan class="cc" id="age_data_dots"> .............. </tspan>
 <tspan id="age_data" class="value">5 years, 6 months, 21 days</tspan>
-<tspan x="430" y="90" class="cc">. </tspan>
+</text><text x="430" y="0" fill="#c9d1d9" class="terminal-row" style="animation-delay:0.156s"><tspan x="430" y="90" class="cc">. </tspan>
 <tspan class="key">Role</tspan>
 <tspan class="cc">........</tspan>
 <tspan class="value">Security Researcher | Red Teamer</tspan>
-<tspan x="430" y="110" class="cc">. </tspan>
+</text><text x="430" y="0" fill="#c9d1d9" class="terminal-row" style="animation-delay:0.208s"><tspan x="430" y="110" class="cc">. </tspan>
 <tspan class="key">Focus</tspan>
 <tspan class="cc">.......</tspan>
 <tspan class="value">Reverse Engineering, Exploit Dev</tspan>
-<tspan x="430" y="130" class="cc">. </tspan>
+</text><text x="430" y="0" fill="#c9d1d9" class="terminal-row" style="animation-delay:0.260s"><tspan x="430" y="130" class="cc">. </tspan>
 <tspan class="key">IDE</tspan>
 <tspan class="cc">...........................</tspan>
 <tspan class="value">Neovim, VSCode</tspan>
-<tspan x="430" y="150" class="cc">. </tspan>
-<tspan x="430" y="170" class="cc">. </tspan>
+</text><text x="430" y="0" fill="#c9d1d9" class="terminal-row" style="animation-delay:0.312s"><tspan x="430" y="150" class="cc">. </tspan>
+</text><text x="430" y="0" fill="#c9d1d9" class="terminal-row" style="animation-delay:0.364s"><tspan x="430" y="170" class="cc">. </tspan>
 <tspan class="key">Languages</tspan>
 <tspan class="key"> Programming</tspan>
 <tspan class="cc">...</tspan>
 <tspan class="value">Rust, C, C++, Python</tspan>
-<tspan x="430" y="190" class="cc">. </tspan>
+</text><text x="430" y="0" fill="#c9d1d9" class="terminal-row" style="animation-delay:0.416s"><tspan x="430" y="190" class="cc">. </tspan>
 <tspan class="key">Languages</tspan>
 <tspan class="key"> Scripting</tspan>
 <tspan class="cc">...</tspan>
 <tspan class="value">Bash, PowerShell, JavaScript</tspan>
-<tspan x="430" y="210" class="cc">. </tspan>
+</text><text x="430" y="0" fill="#c9d1d9" class="terminal-row" style="animation-delay:0.468s"><tspan x="430" y="210" class="cc">. </tspan>
 <tspan class="key">Languages</tspan>
 <tspan class="key"> Real</tspan>
 <tspan class="cc">................</tspan>
 <tspan class="value">English, Hindi</tspan>
-<tspan x="430" y="230" class="cc">. </tspan>
-<tspan x="430" y="250" class="cc">. </tspan>
+</text><text x="430" y="0" fill="#c9d1d9" class="terminal-row" style="animation-delay:0.520s"><tspan x="430" y="230" class="cc">. </tspan>
+</text><text x="430" y="0" fill="#c9d1d9" class="terminal-row" style="animation-delay:0.572s"><tspan x="430" y="250" class="cc">. </tspan>
 <tspan class="key">Hobbies</tspan>
 <tspan class="key"> OffSec</tspan>
 <tspan class="cc">...</tspan>
 <tspan class="value">Malware Development, AV Evasion</tspan>
-<tspan x="430" y="270" class="cc">. </tspan>
+</text><text x="430" y="0" fill="#c9d1d9" class="terminal-row" style="animation-delay:0.624s"><tspan x="430" y="270" class="cc">. </tspan>
 <tspan class="key">Hobbies</tspan>
 <tspan class="key"> Ranges</tspan>
 <tspan class="cc">........</tspan>
 <tspan class="value">HackTheBox, Bug Bounty</tspan>
-<tspan x="430" y="290" class="key">- Contact</tspan>
-<tspan x="430" y="310" class="cc">. </tspan>
+</text><text x="430" y="0" fill="#c9d1d9" class="terminal-row" style="animation-delay:0.676s"><tspan x="430" y="290" class="key">- Contact</tspan>
+</text><text x="430" y="0" fill="#c9d1d9" class="terminal-row" style="animation-delay:0.728s"><tspan x="430" y="310" class="cc">. </tspan>
 <tspan class="key">HTB</tspan>
 <tspan class="cc">.................................</tspan>
 <tspan class="value">atulhack</tspan>
-<tspan x="430" y="330" class="cc">. </tspan>
+</text><text x="430" y="0" fill="#c9d1d9" class="terminal-row" style="animation-delay:0.780s"><tspan x="430" y="330" class="cc">. </tspan>
 <tspan class="key">Telegram</tspan>
 <tspan class="cc">..........................</tspan>
 <tspan class="value">@atulhacks</tspan>
-<tspan x="430" y="350" class="cc">. </tspan>
+</text><text x="430" y="0" fill="#c9d1d9" class="terminal-row" style="animation-delay:0.832s"><tspan x="430" y="350" class="cc">. </tspan>
 <tspan class="key">LinkedIn</tspan>
 <tspan class="cc">............................</tspan>
 <tspan class="value">atulhack</tspan>
-<tspan x="430" y="370" class="cc">. </tspan>
+</text><text x="430" y="0" fill="#c9d1d9" class="terminal-row" style="animation-delay:0.884s"><tspan x="430" y="370" class="cc">. </tspan>
 <tspan class="key">Keybase</tspan>
 <tspan class="cc">.............................</tspan>
 <tspan class="value">atulhack</tspan>
-<tspan x="430" y="410" class="key">- GitHub Stats</tspan>
-<tspan x="430" y="430" class="cc">. </tspan>
+</text><text x="430" y="0" fill="#c9d1d9" class="terminal-row" style="animation-delay:0.936s"><tspan x="430" y="410" class="key">- GitHub Stats</tspan>
+</text><text x="430" y="0" fill="#c9d1d9" class="terminal-row" style="animation-delay:0.988s"><tspan x="430" y="430" class="cc">. </tspan>
 <tspan class="key">Repos</tspan>
 <tspan class="cc" id="repo_data_dots"> .... </tspan>
 <tspan id="repo_data" class="value">12</tspan><tspan class="key"> Contributed </tspan><tspan class="value" id="contrib_data">13</tspan><tspan class="key"> Stars</tspan><tspan class="cc" id="star_data_dots"> ............. </tspan><tspan class="value" id="star_data">3</tspan>
-<tspan x="430" y="450" class="cc">. </tspan>
+</text><text x="430" y="0" fill="#c9d1d9" class="terminal-row" style="animation-delay:1.040s"><tspan x="430" y="450" class="cc">. </tspan>
 <tspan class="key">Commits</tspan>
 <tspan class="cc" id="commit_data_dots"> .................... </tspan>
 <tspan id="commit_data" class="value">64</tspan><tspan class="key"> Followers</tspan><tspan class="cc" id="follower_data_dots"> ........ </tspan><tspan class="value" id="follower_data">11</tspan>
-<tspan x="430" y="470" class="cc">. </tspan>
+</text><text x="430" y="0" fill="#c9d1d9" class="terminal-row" style="animation-delay:1.092s"><tspan x="430" y="470" class="cc">. </tspan>
 <tspan class="key">Lines of Code on GitHub</tspan>
 <tspan class="cc" id="loc_data_dots"> ... </tspan>
 <tspan id="loc_data" class="value">25,392</tspan><tspan class="cc"> </tspan><tspan class="addColor" id="loc_add">29,005</tspan><tspan class="addColor">++</tspan><tspan class="delColor" id="loc_del_dots">. </tspan><tspan class="delColor" id="loc_del">3,613</tspan><tspan class="delColor">--</tspan>
-</text>
-</svg>
+</text><defs><clipPath id="clover-scan-clip" clipPathUnits="userSpaceOnUse"><rect x="15" y="0" width="405" height="15" class="scan-window" /></clipPath></defs><g class="clover-scan" clip-path="url(#clover-scan-clip)" opacity=".65"><g transform="translate(15,163) scale(0.62)"><text x="0" y="0" font-size="8px" xml:space="preserve" fill="#ffb6c0">
+<tspan x="0" y="6.24">                                                                                                                                  </tspan>
+<tspan x="0" y="12.48">                                                                                                                                  </tspan>
+<tspan x="0" y="18.72">                                                                                                                                  </tspan>
+<tspan x="0" y="24.96">                                                                                                                                  </tspan>
+<tspan x="0" y="31.20">                                                                                                                                  </tspan>
+<tspan x="0" y="37.44">                                                                                                                                  </tspan>
+<tspan x="0" y="43.68">                                                                                                                                  </tspan>
+<tspan x="0" y="49.92">                                                     ◆◆◆◆◆◆◆◆◆◆◆    ◆◆◆◆◆◆◆◆◆◆  ◆                                                 </tspan>
+<tspan x="0" y="56.16">                                                 ◆◆◆◆◆◆      ◆◆◆◆◆◆◆◆◆◆    ◆◆◆◆◆◆◆◆                                               </tspan>
+<tspan x="0" y="62.40">                                              ◆◆◆◆◆              ◆              ◆◆◆◆                                              </tspan>
+<tspan x="0" y="68.64">                                            ◆◆◆◆                                   ◆◆◆◆                                           </tspan>
+<tspan x="0" y="74.88">                                           ◆◆◆                                       ◆◆◆                                          </tspan>
+<tspan x="0" y="81.12">                                           ◆◆◆                                        ◆◆◆                                         </tspan>
+<tspan x="0" y="87.36">                                          ◆◆◆                                         ◆◆◆◆  ◆◆◆                                   </tspan>
+<tspan x="0" y="93.60">                             ◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆                                         ◆◆◆◆◆◆◆◆◆◆ ◆                                </tspan>
+<tspan x="0" y="99.84">                          ◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆                                         ◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆    ◆◆◆                     </tspan>
+<tspan x="0" y="106.08">                       ◆◆◆◆◆                ◆◆                                       ◆◆◆             ◆◆◆◆◆◆◆◆◆                    </tspan>
+<tspan x="0" y="112.32">                   ◆ ◆◆◆◆                     ◆                                     ◆                   ◆◆◆◆◆◆                    </tspan>
+<tspan x="0" y="118.56">                    ◆◆◆                        ◆◆                                 ◆◆                      ◆◆◆◆                    </tspan>
+<tspan x="0" y="124.80">                   ◆◆◆                          ◆◆◆                            ◆◆◆◆                         ◆◆◆                   </tspan>
+<tspan x="0" y="131.04">                   ◆◆◆                           ◆◆◆◆                       ◆◆◆◆◆◆                           ◆◆                   </tspan>
+<tspan x="0" y="137.28">                   ◆◆◆                            ◆◆◆◆◆                    ◆◆◆◆◆                            ◆◆◆                   </tspan>
+<tspan x="0" y="143.52">                   ◆◆◆                             ◆◆◆◆◆                 ◆◆◆◆◆◆                            ◆◆◆◆                   </tspan>
+<tspan x="0" y="149.76">                ◆◆◆◆◆                                ◆◆◆◆               ◆◆◆◆◆                                ◆◆◆◆                 </tspan>
+<tspan x="0" y="156.00">               ◆◆◆◆                                     ◆◆              ◆◆                                     ◆◆◆◆               </tspan>
+<tspan x="0" y="162.24">              ◆◆◆                                                                                               ◆◆◆               </tspan>
+<tspan x="0" y="168.48">              ◆◆◆                                                                                                ◆◆◆              </tspan>
+<tspan x="0" y="174.72">              ◆◆◆                                                                                                ◆◆◆              </tspan>
+<tspan x="0" y="180.96">               ◆◆◆                                                                                              ◆◆◆               </tspan>
+<tspan x="0" y="187.20">               ◆◆◆                                                                                              ◆◆◆               </tspan>
+<tspan x="0" y="193.44">                 ◆◆◆                                                       ◆◆◆◆◆◆◆                             ◆◆◆                </tspan>
+<tspan x="0" y="199.68">               ◆◆◆◆◆◆                    ◆◆◆◆◆◆◆◆◆◆                           ◆◆◆◆◆◆◆◆◆◆◆                     ◆◆◆◆                </tspan>
+<tspan x="0" y="205.92">               ◆◆◆◆◆◆◆◆◆◆            ◆◆◆◆◆◆◆◆◆◆◆                                  ◆◆◆◆◆◆◆◆◆◆               ◆◆◆◆                   </tspan>
+<tspan x="0" y="212.16">                ◆◆◆◆   ◆◆◆◆◆◆◆◆◆◆                                                            ◆◆◆◆◆◆   ◆◆◆◆◆◆◆                     </tspan>
+<tspan x="0" y="218.40">                          ◆◆◆◆                                  ◆◆                                 ◆◆◆◆◆                          </tspan>
+<tspan x="0" y="224.64">                        ◆◆◆◆                                   ◆◆◆                                    ◆◆◆                         </tspan>
+<tspan x="0" y="230.88">                       ◆◆◆                                     ◆◆◆◆                                    ◆◆◆                        </tspan>
+<tspan x="0" y="237.12">                       ◆◆◆                                    ◆◆◆◆◆                                     ◆◆◆                       </tspan>
+<tspan x="0" y="243.36">                      ◆◆◆◆                                    ◆◆◆◆◆◆                                    ◆◆◆                       </tspan>
+<tspan x="0" y="249.60">                       ◆◆◆                                     ◆◆◆◆                                     ◆◆◆                       </tspan>
+<tspan x="0" y="255.84">                        ◆◆◆                                    ◆◆◆◆                                     ◆◆◆                       </tspan>
+<tspan x="0" y="262.08">                         ◆◆◆                                    ◆◆                                     ◆◆◆◆                       </tspan>
+<tspan x="0" y="268.32">                          ◆◆◆                                   ◆◆                                   ◆◆◆◆                         </tspan>
+<tspan x="0" y="274.56">                           ◆◆◆◆                                 ◆                                  ◆◆◆◆◆◆                         </tspan>
+<tspan x="0" y="280.80">                             ◆◆◆◆◆◆◆◆◆◆                        ◆◆                         ◆◆    ◆◆◆◆◆                             </tspan>
+<tspan x="0" y="287.04">                                ◆◆◆◆◆◆◆                        ◆◆◆                        ◆◆◆◆◆◆◆◆                                </tspan>
+<tspan x="0" y="293.28">                                     ◆◆◆                     ◆◆◆◆◆◆◆                     ◆◆◆                                      </tspan>
+<tspan x="0" y="299.52">                                     ◆◆◆◆◆                 ◆◆◆◆◆◆◆◆◆◆◆                ◆◆◆◆◆                                       </tspan>
+<tspan x="0" y="305.76">                                         ◆◆◆◆◆◆◆    ◆◆◆◆◆◆◆◆      ◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆                                         </tspan>
+<tspan x="0" y="312.00">                                             ◆◆◆◆◆◆◆◆◆◆                    ◆◆◆◆◆◆◆◆◆                                              </tspan>
+<tspan x="0" y="318.24">                                                                                                                                  </tspan>
+<tspan x="0" y="324.48">                                                                                                                                  </tspan>
+<tspan x="0" y="330.72">                                                                                                                                  </tspan>
+<tspan x="0" y="336.96">                                                                                                                                  </tspan>
+<tspan x="0" y="343.20">                                                                                                                                  </tspan>
+<tspan x="0" y="349.44">                                                                                                                                  </tspan>
+<tspan x="0" y="355.68">                                                                                                                                  </tspan>
+</text></g>
+</g><rect x="561" y="17" width="8" height="15" fill="#f16c78" class="cursor" /></svg>
