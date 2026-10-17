@@ -200,9 +200,17 @@ def render_card(path: Path, stats: dict) -> bytes:
             raise ValueError(f'{path.name} is missing the required stat ID {key}.')
         node.text = f'{value:,}' if isinstance(value, int) else str(value)
         dots = root.find(f".//*[@id='{key}_dots']")
-        if dots is not None and key in widths:
-            count = max(0, widths[key] - len(node.text))
+        width = dots.get('data-width', widths.get(key)) if dots is not None else None
+        if width is not None:
+            count = max(0, int(width) - len(node.text))
             dots.text = {0: '', 1: ' ', 2: '. '}.get(count, ' ' + '.' * count + ' ')
+    # Optional churn bar: additions vs deletions as a fixed number of cells.
+    bar_add, bar_del = root.find(".//*[@id='loc_bar_add']"), root.find(".//*[@id='loc_bar_del']")
+    if bar_add is not None and bar_del is not None:
+        cells = int(bar_add.get('data-cells'))
+        total = stats['loc_add'] + stats['loc_del']
+        filled = round(cells * stats['loc_add'] / total) if total else cells
+        bar_add.text, bar_del.text = '━' * filled, '━' * (cells - filled)
     return etree.tostring(tree, encoding='utf-8', xml_declaration=True)
 
 

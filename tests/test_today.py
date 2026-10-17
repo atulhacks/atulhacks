@@ -150,7 +150,7 @@ class UpdaterTests(unittest.TestCase):
             after = etree.fromstring(today.render_card(path, stats))
             self.assertEqual(before.get('viewBox'), after.get('viewBox'))
             self.assertEqual(before.find('{*}style').text, after.find('{*}style').text)
-            self.assertEqual(after.get('data-motion'), 'clover-terminal-v1')
+            self.assertEqual(after.get('data-motion'), 'clover-terminal-v2')
             self.assertEqual(after.find(".//*[@id='repo_data']").text, '14')
             self.assertEqual(after.find(".//*[@id='loc_data']").text, '25,000')
 
